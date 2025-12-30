@@ -24,9 +24,5 @@ int main(){
       printf("Invalid PIN. Try again tomorrow");
    }
 
-   printf("hey hancy boy ");
-   printf("changed");
-   
-    printf("Hey World");
     return 0;
 }
